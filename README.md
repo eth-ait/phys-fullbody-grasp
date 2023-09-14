@@ -1,3 +1,2 @@
 # Physically Plausible Full-Body Hand-Object Interaction Synthesis
-
-Code will be made available.
+Project page: [https://eth-ait.github.io/phys-fullbody-grasp/](https://eth-ait.github.io/phys-fullbody-grasp/)
